@@ -1,0 +1,38 @@
+LOCAL LINK:
+https://ge.globo.com/ce/futebol/times/fortaleza/agenda-de-jogos-do-fortaleza/#/
+
+DIV QUE JUNTA TUDO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg
+
+DIV QUE JUNTA OS JOGOS EM GRUPO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1)
+
+RETORNA O MÊS
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(2) > h2 > span
+
+TIPO DE CAMPEONATO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventCardstyle__Wrapper-sc-1yynsm5-1.fxKRPy > div > div.InfoHorizotalList__InfoHorizontalListWrapper-sc-ybhhdb-0.dNBcQt > span
+
+DIV QUE ENGLOBA DIA E HORARIO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventCardstyle__Wrapper-sc-1yynsm5-1.fxKRPy > div > div.EventCardHeaderstyle__EventCardHeaderWrapper-sc-g73dt2-0.fVFcBn > div
+
+DIA DO JOGO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventCardstyle__Wrapper-sc-1yynsm5-1.fxKRPy > div > div.EventCardHeaderstyle__EventCardHeaderWrapper-sc-g73dt2-0.fVFcBn > div > span.EventCardHeaderstyle__StartDate-sc-g73dt2-4.jfmzJm
+
+HORÁRIO DO JOGO
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventCardstyle__Wrapper-sc-1yynsm5-1.fxKRPy > div > div.EventCardHeaderstyle__EventCardHeaderWrapper-sc-g73dt2-0.fVFcBn > div > span.EventCardHeaderstyle__HourWrapper-sc-g73dt2-2.kkQFQb
+
+TIME 1
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventContainerstyle__Container-sc-1fg7mpj-0.jcGarA > div > div.EventCardScoreboardstyle__EventCardScoreboardWrapperMatch-sc-1y0u57w-2.bkLeJU > div.EventCardScoreLinestyle__ScoreLineWrapper-sc-x4p5ma-0.DgHNt > div.EventCardScoreLinestyle__TeamLineWrapper-sc-x4p5ma-1.hdTFqf > span > span
+
+TIME 2
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventContainerstyle__Container-sc-1fg7mpj-0.jcGarA > div > div.EventCardScoreboardstyle__EventCardScoreboardWrapperMatch-sc-1y0u57w-2.bkLeJU > div.EventCardScoreLinestyle__ScoreLineWrapper-sc-x4p5ma-0.fwgQlM > div.EventCardScoreLinestyle__TeamLineWrapper-sc-x4p5ma-1.kNUfsa > span > span
+
+INFORMAÇÕES DA PARTIDA, COMO TIPO, RODADA E LOCAL
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventContainerstyle__Container-sc-1fg7mpj-0.jcGarA > div > div.InfoHorizotalList__InfoHorizontalListWrapper-sc-ybhhdb-0.ixRJyl
+
+RETORNA RODADA
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventContainerstyle__Container-sc-1fg7mpj-0.jcGarA > div > div.InfoHorizotalList__InfoHorizontalListWrapper-sc-ybhhdb-0.ixRJyl > span:nth-child(2)
+
+RETORNA LOCAL
+#root-agenda-esportiva > div > section > div:nth-child(3) > div > div > div.Container-sc-1jkj8sb-0.fyFMlg > div > div > div.sc-dmqHEX.UpFMV > section > div:nth-child(1) > div > a:nth-child(1) > div.EventContainerstyle__Container-sc-1fg7mpj-0.jcGarA > div > div.InfoHorizotalList__InfoHorizontalListWrapper-sc-ybhhdb-0.ixRJyl > span:nth-child(3)
