@@ -22,9 +22,9 @@ for result_mes in results_mes:
 #Time de casa
 results_time1 = soup.find_all('div', class_='ctnCenter')
 for result_time1 in results_time1:
-    results_time_casa = result_time1.find_all('div', class_='timeCasa')  # Correção aqui
+    results_time_casa = result_time1.find_all('div', class_='timeCasa')
     for result_time_casa in results_time_casa:
-        time_tag = result_time_casa.find('span', class_='nome')  # Correção aqui
+        time_tag = result_time_casa.find('span', class_='nome')
         if time_tag:
             time_casa = time_tag.get_text()
             # print(time_casa)
